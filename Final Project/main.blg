@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+The style file: elsarticle-num.bst
+Reallocating 'name_of_file' (item size: 1) to 63 items.
+Reallocating 'name_of_file' (item size: 1) to 59 items.
+Database file #1: C:\\Users\\Zirconix\\Dropbox\\research\\@refs\\assignments.bib
+Database file #2: C:\\Users\\Zirconix\\Dropbox\\research\\@refs\\jabrefs.bib
+"}" immediately follows an entry type---line 13241 of file C:\\Users\\Zirconix\\Dropbox\\research\\@refs\\jabrefs.bib
+ : @comment{jabref-meta: fileDirectory:C:\\Users\\Jeta\\Dropbox\\research\\@literature;
+ :                                                                                     }
+I'm skipping whatever remains of this entry
+"}" immediately follows an entry type---line 13245 of file C:\\Users\\Zirconix\\Dropbox\\research\\@refs\\jabrefs.bib
+ : @comment{jabref-meta: fileDirectory-Nalonyx-MSI:D:\\Dropbox\\research\\@literature;
+ :                                                                                    }
+I'm skipping whatever remains of this entry
+"}" immediately follows an entry type---line 13249 of file C:\\Users\\Zirconix\\Dropbox\\research\\@refs\\jabrefs.bib
+ : @comment{jabref-meta: fileDirectory-Zirconix-Donnager:C:\\Users\\Zirconix\\Dropbox\\research\\@literature;
+ :                                                                                                           }
+I'm skipping whatever remains of this entry
+You've used 20 entries,
+            2952 wiz_defined-function locations,
+            845 strings with 9264 characters,
+and the built_in function-call counts, 6657 in all, are:
+= -- 663
+> -- 206
+< -- 1
++ -- 82
+- -- 62
+* -- 565
+:= -- 897
+add.period$ -- 38
+call.type$ -- 20
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 169
+empty$ -- 728
+format.name$ -- 78
+if$ -- 1677
+int.to.chr$ -- 0
+int.to.str$ -- 20
+missing$ -- 22
+newline$ -- 87
+num.names$ -- 20
+pop$ -- 110
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 399
+stack$ -- 0
+substring$ -- 440
+swap$ -- 60
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 52
+width$ -- 22
+write$ -- 201
+(There were 3 error messages)
